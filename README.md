@@ -1,3 +1,5 @@
+> **Leer en español:** [README.es.md](README.es.md)
+
 # Liliet Gonzalez Polanco
 
 **Senior QA Manager · Test Automation Lead · AI-Enabled Quality Engineering**
