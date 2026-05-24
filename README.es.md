@@ -6,6 +6,7 @@
 Lima, Perú · Remoto, totalmente alineada con EST / CST de EE.UU. · Abierta a roles de contratación y remotos en EE.UU. y LATAM (B2B)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-erzascarlettitania.github.io%2Fportfolio-1F6FEB?logo=githubpages&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue)](https://www.istqb.org/)
 [![Disponible](https://img.shields.io/badge/Disponible-Contrato%20Remoto%20%2F%20FTE-brightgreen)](#contrátame)
@@ -92,6 +93,7 @@ Trabajo como **líder embebida de QA / líder de automatización** con equipos d
 - ✅ Buen fit para equipos de SaaS, fintech, healthtech y productos de IA que necesitan QA disciplinado y basado en evidencia
 
 📩 **liliet.polanco.peru@gmail.com**
+🌐 **Portafolio:** <https://erzascarlettitania.github.io/portfolio/>
 🔗 [linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
 
 ---

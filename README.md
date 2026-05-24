@@ -6,6 +6,7 @@
 Lima, Peru · Remote, fully aligned with US EST / CST · Open to US contract & remote roles (B2B)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-erzascarlettitania.github.io%2Fportfolio-1F6FEB?logo=githubpages&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue)](https://www.istqb.org/)
 [![Status](https://img.shields.io/badge/Available-Remote%20Contract%20%2F%20FTE-brightgreen)](#hire-me)
@@ -92,6 +93,7 @@ I work as an **embedded QA leader / test-automation lead** with US software team
 - ✅ Strong fit for SaaS, fintech, healthtech, and AI-product teams that need disciplined, evidence-driven QA
 
 📩 **liliet.polanco.peru@gmail.com**
+🌐 **Portfolio:** <https://erzascarlettitania.github.io/portfolio/>
 🔗 [linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
 
 ---
