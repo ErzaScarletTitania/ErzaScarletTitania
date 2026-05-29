@@ -1,33 +1,51 @@
 > **Read in English:** [README.md](README.md)
 
-# Liliet Gonzalez Polanco
+# Liliet de la Caridad Gonzalez Polanco
 
-**Gerente Senior de QA · Líder de Automatización de Pruebas · Calidad Asistida por IA**
-Lima, Perú · Remoto, totalmente alineada con EST / CST de EE.UU. · Abierta a roles de contratación y remotos en EE.UU. y LATAM (B2B)
+**Estratega de QA Potenciado por IA · Arquitecta de Ingeniería de Calidad · Flujos de Pruebas Multi-Agente**
 
+Lima, Perú · Remoto, totalmente alineada con EST / CST de EE.UU. · Abierta a roles remotos y por contrato en EE.UU.
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-erzascarlettitania.github.io%2Fportfolio-8A2BE2?logo=github&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-erzascarlettitania.github.io%2Fportfolio-1F6FEB?logo=githubpages&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
-[![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-blue)](https://www.istqb.org/)
+[![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?logo=bookstack&logoColor=white)](https://www.istqb.org/)
 [![Disponible](https://img.shields.io/badge/Disponible-Contrato%20Remoto%20%2F%20FTE-brightgreen)](#contrátame)
 
 ---
 
 ## Acerca de mí
 
-Gerente de QA y Líder de Automatización de Pruebas certificada ISTQB con más de 8 años escalando ingeniería de calidad en **20+ productos web, móviles, de escritorio y APIs**. Lidero equipos distribuidos de QA, diseño estrategias de pruebas basadas en riesgo y construyo las herramientas asistidas por IA que hacen el QA moderno más rápido, auditable y fácil de transferir.
+Diseño estrategias de QA basadas en riesgo y **orquesto agentes de IA** para ejecutarlas - entregando automatización de pruebas, pipelines de evidencia y reportes auditables a escala.
 
-Transformo trabajo de testing repetitivo y frágil en **sistemas**: flujos multiagente de QA, pipelines de evidencia y herramientas CLI Windows-first que se entregan con logs, validación y reporte integrados.
+Certificada ISTQB con 8+ años en 20+ productos. Mi expertise es el conocimiento de QA que dirige a la IA: **qué probar, cómo estructurarlo, cómo validar el output generado por IA y cómo empaquetarlo para stakeholders.**
+
+Transformo trabajo de QA repetitivo y frágil en **sistemas asistidos por IA** - flujos multiagente, pipelines de evidencia y tooling CLI Windows-first - que salen con logs, validación y reporte integrados.
+
+---
+
+## Cómo trabajo
+
+| Paso | Qué hago | Resultado |
+| --- | --- | --- |
+| 1 | **Diseñar** | Estrategia de QA basada en riesgo, priorizada por negocio y alineada con ISTQB, Scrum y CMMI |
+| 2 | **Orquestar** | Agentes de IA ejecutando pruebas, automatización y captura de evidencia |
+| 3 | **Validar** | Reviso cada artefacto generado por IA antes de que llegue a un stakeholder |
+| 4 | **Entregar** | Reportes y artefactos auditables, listos para hand-off |
+
+No necesito escribir scripts de Selenium línea por línea. Necesito saber qué se ve como buen testing - y cómo lograr que la IA lo produzca de forma confiable.
 
 ---
 
 ## Qué hago
 
-- **Liderazgo y Estrategia de QA** — estrategia basada en riesgo, preparación para release, alineación con ISTQB / Scrum / CMMI, liderazgo de equipos distribuidos.
-- **Automatización de Pruebas** — Selenium WebDriver, Postman / Newman, Python, PowerShell; CI sobre GitHub Actions y Azure DevOps.
-- **QA Asistido por IA** — frameworks multiagente de testing, estado de sesión persistente, reporte legible por máquina, análisis asistido con Copilot / Codex.
-- **Evidencia y Tooling** — utilitarios en OpenCV (C# / OpenCvSharp) y PowerShell para evidencia auditada y con marca de tiempo.
-- **Entrega Multifuncional** — actualmente lidero como Project Manager un equipo de 3 ingenieros; puente entre ingeniería, stakeholders y calidad.
+| Área | Enfoque |
+| --- | --- |
+| 🎯 **Estrategia y Liderazgo de QA** | Estrategia basada en riesgo, readiness de releases, alineación ISTQB / Scrum / CMMI, liderazgo de equipos distribuidos |
+| 🤖 **Automatización orquestada por IA** | Dirijo agentes de IA para construir y mantener suites con Selenium WebDriver, Playwright y Postman / Newman |
+| 🧩 **Sistemas de QA multi-agente** | Ejecución por fases, estado de sesión persistente, reportes legibles por máquina y pipelines de evidencia automatizados |
+| ✅ **Validación de output de IA** | Sé cómo luce algo “listo para producción” y valido cada línea antes de que salga |
+| 🤝 **Entrega multifuncional** | Lidero un equipo de 3 ingenieros como Project Manager, puente entre ingeniería, stakeholders y calidad |
 
 ---
 
@@ -35,49 +53,52 @@ Transformo trabajo de testing repetitivo y frágil en **sistemas**: flujos multi
 
 | Métrica | Resultado | Cómo |
 | --- | --- | --- |
-| Defectos post-release | **−20%** | Estrategia de QA basada en riesgo en 20+ productos |
-| Tiempo de resolución de incidentes críticos | **−40%** | Marco de escalamiento por niveles |
-| Detección temprana de defectos | **60% antes de UAT** | Pruebas de caja negra, multi-navegador y exploratorias |
-| Aprobación de entregables en tiempo | **90%** | Ciclos continuos de feedback con stakeholders |
-| Esfuerzo de regresión manual | Reducido significativamente en 3 productos web | Suites de automatización con Selenium WebDriver |
+| Defectos post-release | −20% | Estrategia de QA basada en riesgo y asistida por IA en 20+ productos |
+| Resolución de incidentes críticos | −40% | Marco de escalamiento por niveles asistido por IA |
+| Detección temprana de defectos | 60% antes de UAT | Pruebas exploratorias, cross-browser y black-box asistidas por IA |
+| Aprobación de entregables a tiempo | 90% | Ciclos de feedback y demos de hitos asistidos por IA |
+| Esfuerzo de regresión manual | Reducido significativamente en 3 productos web | Suites orquestadas por IA con Selenium WebDriver |
 
 ---
 
-## Trabajo público destacado
+## Proyectos destacados
 
-| Proyecto | Enfoque | Por qué importa |
+| Proyecto | Enfoque | Mi rol |
 | --- | --- | --- |
-| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | IA aplicada + arquitectura de QA | Vitrina pública de un framework multiagente de testing con reporte estructurado y artefactos de sesión legibles por máquina. |
-| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Tooling de agentes | Lanzador Windows para perfiles aislados de Codex CLI — flujos de arranque confiables y probados para trabajo multi-cuenta con IA. |
-| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Automatización con OpenCV (C#) | Extrae fotogramas PNG con marca de tiempo desde videos de sesiones de prueba grabadas. |
-| [**g-connect-frame-extractor-ps1**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-ps1) | Automatización de QA (PowerShell) | Ayudante ligero para captura rápida de evidencia bajo demanda. |
+| [**g-connect-testing-agent-v2**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | Framework multiagente de QA | Diseñé la arquitectura y las fases. Dirigí a la IA para construir y documentar. |
+| [**e-commerce-audit-suite**](https://github.com/ErzaScarletTitania) | Auditoría e-commerce en Playwright | Definí el alcance (SEO, seguridad, a11y, performance y core e-commerce). La IA construyó la suite. Yo validé cada check. |
+| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Captura de evidencia con OpenCV (C#) | Diseñé el pipeline de evidencia. Dirigí a la IA para construir el extractor en C#. |
+| [**g-connect-frame-extractor-ps1**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-ps1) | Captura de evidencia con PowerShell | La misma pipeline, implementación ligera. Orquestada por IA. |
+| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Tooling de agentes | Diseñé el flujo de aislamiento multi-cuenta. La IA construyó el lanzador. |
 
 ---
 
 ## Trabajo privado seleccionado
 
-- Entorno multiagente de testing que divide el QA en fases claras, conserva memoria reutilizable del proyecto y empaqueta evidencia y reporte listos para entrega.
-- Automatización local-first de facturación: reporte mensual en Excel → facturas en Google Sheets → logs de validación → entregables PDF exportables.
-- Tooling de exportación de Azure DevOps: work items → JSON reutilizable, paquetes de adjuntos y reportes Markdown legibles para triaje posterior.
+- **Entorno de testing multiagente** - divide el QA en fases estructuradas, preserva memoria reutilizable del proyecto y empaqueta evidencia + reportes para entrega. Diseñado por mí, construido con orquestación de IA.
+- **Pipeline de automatización de facturas** - Excel mensual → facturas en Google Sheets → logs de validación → entregables PDF. Dirigido por IA de punta a punta.
+- **Tooling de exportación de Azure DevOps** - work items → JSON, paquetes de adjuntos y reportes Markdown. Orquestado por IA.
 
 ---
 
-## Stack
+## Stack que orquesto vía IA
 
-**Testing y QA:** Selenium WebDriver · Postman / Newman · Manual y Exploratoria · Multi-Navegador · Rendimiento · Contratos de API
-**Lenguajes:** Python · PowerShell · C# · SQL
-**IA / Agentes:** GitHub Copilot · OpenAI Codex · Diseño de Flujos Multiagente · Prompt Engineering
-**Visión por Computadora:** OpenCvSharp · OpenCV
-**CI / DevOps:** GitHub Actions · Azure DevOps
-**Plataformas:** CLI Windows-first · .NET 8 · Flutter · Google Workspace APIs
-**Marcos y Estándares:** ISTQB · Scrum · CMMI · Pruebas Basadas en Riesgo
+| Categoría | Stack |
+| --- | --- |
+| Testing | Selenium WebDriver · Playwright · Postman / Newman · Manual y Exploratoria · Cross-Browser · Performance · API Contract |
+| Lenguajes | Python · PowerShell · C# · JavaScript · SQL |
+| Plataformas IA | GitHub Copilot · OpenAI Codex · Claude · Diseño de Flujos Multi-Agente · Prompt Engineering |
+| Evidencia y CV | OpenCV / OpenCvSharp · Google Workspace APIs |
+| CI / DevOps | GitHub Actions · Azure DevOps |
+| Plataformas | CLI Windows-first · .NET 8 · Flutter |
+| Marcos | ISTQB · Scrum · CMMI · Pruebas Basadas en Riesgo |
 
 ---
 
-## Resultados que optimizo
+## Qué optimizo
 
-- Ejecución repetible
-- Evidencia auditable
+- Ejecución repetible asistida por IA
+- Trazabilidad auditable
 - Flujos amigables al operador
 - Artefactos claros de hand-off
 - Automatización segura para producción
@@ -86,25 +107,24 @@ Transformo trabajo de testing repetitivo y frágil en **sistemas**: flujos multi
 
 ## Contrátame
 
-Trabajo como **líder embebida de QA / líder de automatización** con equipos de software de EE.UU. y LATAM desde Lima, Perú — con total solapamiento horario con EST y CST.
+Trabajo como **estratega embebida de QA potenciada por IA** con equipos de software de EE.UU. desde Lima, Perú - con total solapamiento EST y CST.
 
-- ✅ Disponible para **contrataciones (B2B)** y **roles remotos FTE**
-- ✅ Cómoda haciéndome cargo end-to-end del QA de un producto O integrándome a un equipo de QA existente como IC senior / lead
-- ✅ Buen fit para equipos de SaaS, fintech, healthtech y productos de IA que necesitan QA disciplinado y basado en evidencia
+- Disponible para **contratos** y **roles remotos full-time**
+- Puedo liderar QA end-to-end o integrarme a un equipo existente como lead de AI-QA
+- Buen fit para SaaS, fintech, healthtech y productos de IA que necesitan QA a velocidad IA, con evidencia y accountability
 
-📩 **liliet.polanco.peru@gmail.com**
-🌐 **Portafolio:** <https://erzascarlettitania.github.io/portfolio/>
-🔗 [linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
+📩 **liliet.polanco.peru@gmail.com**  
+[🔗 linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
 
 ---
 
 ## Certificaciones e idiomas
 
-- **ISTQB® Certified Tester** — Foundation Level (CTFL)
-- **EFSET English** — C1 Advanced (70/100)
-- **IELTS General Training** — CEFR B2 (Banda 7.0)
+- **ISTQB Certified Tester** - Foundation Level (CTFL)
+- **EFSET English** - C1 Advanced (70/100)
+- **IELTS General Training** - CEFR B2 (Band 7.0)
 - Idiomas: Inglés (C1) · Español (Nativo) · Alemán (A1)
 
 ---
 
-<sub>Ingeniera en Ciencias Informáticas · Universidad de las Ciencias Informáticas (UCI), La Habana, Cuba · 2012–2017 · Distinción "Rubén Martínez Villena" como mejor graduada.</sub>
+<sub>Ingeniera en Ciencias Informáticas · Universidad de las Ciencias Informáticas (UCI), La Habana, Cuba · 2012-2017 · Distinción "Rubén Martínez Villena" como mejor graduada.</sub>
