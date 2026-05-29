@@ -1,3 +1,5 @@
+Leer en español: README.es.md
+
 # Liliet de la Caridad Gonzalez Polanco
 
 **AI-Enabled QA Strategist · Quality Engineering Architect · Multi-Agent Testing Workflows**
