@@ -1,5 +1,3 @@
-> **Read in English:** [README.md](README.md)
-
 # Liliet de la Caridad González Polanco
 
 **Estratega de QA Potenciado por IA · Arquitecta de Ingeniería de Calidad · Flujos de Pruebas Multi-Agente**
@@ -128,3 +126,7 @@ Trabajo como **estratega embebida de QA potenciada por IA** con equipos de softw
 ---
 
 <sub>Ingeniera en Ciencias Informáticas · Universidad de las Ciencias Informáticas (UCI), La Habana, Cuba · 2012-2017 · Distinción "Rubén Martínez Villena" como mejor graduada.</sub>
+
+---
+
+**¿Prefieres inglés?** [Lee la versión en inglés aquí](README.md).
