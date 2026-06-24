@@ -1,6 +1,6 @@
 > **Read in English:** [README.md](README.md)
 
-# Liliet de la Caridad Gonzalez Polanco
+# Liliet de la Caridad González Polanco
 
 **Estratega de QA Potenciado por IA · Arquitecta de Ingeniería de Calidad · Flujos de Pruebas Multi-Agente**
 
