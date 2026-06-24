@@ -1,5 +1,3 @@
-Leer en español: README.es.md
-
 # Liliet de la Caridad Gonzalez Polanco
 
 **AI-Enabled QA Strategist · Quality Engineering Architect · Multi-Agent Testing Workflows**
@@ -128,3 +126,7 @@ I work as an **embedded AI-enabled QA strategist** with US software teams from L
 ---
 
 <sub>Engineer in Computer Science · Universidad de las Ciencias Informáticas (UCI), Havana, Cuba · 2012-2017 · Top-graduate honor ("Rubén Martínez Villena").</sub>
+
+---
+
+**¿Prefieres español?** [Lee la versión en español aquí](README.es.md).
