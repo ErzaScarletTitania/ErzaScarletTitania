@@ -1,8 +1,8 @@
 # Liliet de la Caridad Gonzalez Polanco
 
-**AI-Enabled QA Strategist · Quality Engineering Architect · Multi-Agent Testing Workflows**
+**Quality Engineering Leader · QA Strategy · Release Readiness · AI-Enabled Delivery Systems**
 
-Lima, Peru · Remote, fully aligned with US EST / CST · Open to US contract & remote roles
+Lima, Peru · Remote · Global collaboration · Open to contract and full-time remote roles
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-erzascarlettitania.github.io%2Fportfolio-8A2BE2?logo=github&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
@@ -14,11 +14,11 @@ Lima, Peru · Remote, fully aligned with US EST / CST · Open to US contract & r
 
 ## About
 
-I design risk-based QA strategies and **orchestrate AI agents** to execute them - delivering test automation, evidence pipelines, and auditable reporting at scale.
+I lead quality and delivery systems for software teams that need **faster execution, stronger release confidence, and clearer stakeholder visibility**.
 
-ISTQB-certified with 8+ years across 20+ products. My expertise is the QA domain knowledge that directs the AI: **what to test, how to structure it, how to validate AI-generated output, and how to package it for stakeholders.**
+ISTQB-certified with **9 years** across **30+ products**, I bring a mix of quality engineering leadership, cross-functional delivery, and AI-enabled workflow design. My strength is not claiming every tool as a core specialty; it is **defining the strategy, setting the quality bar, structuring the workflow, and turning complex work into auditable execution**.
 
-I turn fragile, repetitive QA work into **AI-assisted systems** - multi-agent workflows, evidence pipelines, and Windows-first CLI tooling - that ship with logs, validation, and reporting baked in.
+I currently lead delivery as a Project Manager after four years as QA Lead, building on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
 
 ---
 
@@ -26,12 +26,10 @@ I turn fragile, repetitive QA work into **AI-assisted systems** - multi-agent wo
 
 | Step | What I do | Output |
 | --- | --- | --- |
-| 1 | **Design** | Risk-based, business-prioritized QA strategy aligned with ISTQB, Scrum, and CMMI |
-| 2 | **Orchestrate** | AI agents executing testing, automation, and evidence capture |
-| 3 | **Validate** | Review every AI-generated artifact before it reaches a stakeholder |
-| 4 | **Deliver** | Auditable, hand-off-ready reports and artifacts |
-
-I do not need to write Selenium scripts line by line. I need to know what good testing looks like - and how to get AI to produce it reliably.
+| 1 | **Define** | Risk-based, business-prioritized quality and delivery strategy |
+| 2 | **Structure** | Repeatable workflows, evidence standards, and reporting patterns |
+| 3 | **Validate** | Review outputs against quality, clarity, and stakeholder needs |
+| 4 | **Deliver** | Decision-ready artifacts, auditable evidence, and stronger release confidence |
 
 ---
 
@@ -39,11 +37,11 @@ I do not need to write Selenium scripts line by line. I need to know what good t
 
 | Area | Focus |
 | --- | --- |
-| 🎯 **QA Strategy & Leadership** | Risk-based test strategy, release readiness, ISTQB / Scrum / CMMI alignment, distributed-team leadership |
-| 🤖 **AI-Orchestrated Test Automation** | I direct AI agents to build and maintain suites with Selenium WebDriver, Playwright, and Postman / Newman |
-| 🧩 **Multi-Agent QA Systems** | Phased execution, persistent session state, machine-readable reporting, automated evidence pipelines |
-| ✅ **AI Output Validation** | I know what production-ready looks like and I validate every line before it ships |
-| 🤝 **Cross-Functional Delivery** | I lead a 3-engineer team as Project Manager, bridging engineering, stakeholders, and quality |
+| 🎯 **Quality Strategy & Release Readiness** | Risk-based QA, release discipline, ISTQB / Scrum / CMMI alignment, defect prevention |
+| 🧭 **Evidence-Based QA Operations** | Clear quality metrics, defect visibility, evidence standards, and auditable reporting |
+| 🤖 **AI-Enabled Delivery Systems** | Structured AI workflows, machine-readable outputs, and faster coordination without losing accountability |
+| 🤝 **Cross-Functional Delivery Leadership** | Project leadership, stakeholder reporting, escalation frameworks, and distributed-team alignment |
+| 🛠️ **Workflow Design & Tooling** | Windows-first CLI tooling, evidence support utilities, and reusable operating patterns |
 
 ---
 
@@ -51,11 +49,11 @@ I do not need to write Selenium scripts line by line. I need to know what good t
 
 | Metric | Result | How |
 | --- | --- | --- |
-| Post-release defects | −20% | AI-assisted risk-based QA strategy across 20+ products |
-| High-impact incident resolution | −40% | AI-assisted tiered escalation framework |
-| Early-stage defect detection | 60% caught pre-UAT | AI-assisted black-box, cross-browser, exploratory testing |
-| On-time deliverable approval | 90% | AI-assisted stakeholder feedback loops and milestone demos |
-| Manual regression effort | Cut significantly on 3 web products | AI-orchestrated Selenium WebDriver suites |
+| Post-release defects | −20% | Led risk-based QA across a 30+ product portfolio |
+| High-impact incident resolution | −40% | Designed a tiered escalation framework with clearer ownership and SLA discipline |
+| Early-stage defect detection | 60% caught pre-UAT | Directed cross-platform black-box, exploratory, and risk-based testing |
+| On-time deliverable approval | 90% | Instituted milestone demos and tighter stakeholder feedback loops |
+| Portfolio scope | 30+ products | Built a unified QA strategy across web, mobile, and desktop initiatives |
 
 ---
 
@@ -63,53 +61,52 @@ I do not need to write Selenium scripts line by line. I need to know what good t
 
 | Project | Focus | My Role |
 | --- | --- | --- |
-| [**g-connect-testing-agent-v2**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | Multi-Agent QA Framework | Designed the architecture and phases. Directed AI to build and document. |
-| [**e-commerce-audit-suite**](https://github.com/ErzaScarletTitania) | Playwright E-Commerce Audit | Defined the audit scope (SEO, security, a11y, performance, e-commerce core). AI built the suite. I validated every check. |
-| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | OpenCV Evidence Capture (C#) | Designed the evidence pipeline. Directed AI to build the C# extractor. |
-| [**g-connect-frame-extractor-ps1**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-ps1) | PowerShell Evidence Capture | Same pipeline, lightweight implementation. AI-orchestrated. |
-| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Agent Tooling | Designed the multi-account isolation workflow. AI built the launcher. |
+| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | AI-enabled quality operating model | Designed the phased operating model, evidence structure, and reporting logic for repeatable QA execution. |
+| [**spec-driven-delivery-template**](https://github.com/ErzaScarletTitania/spec-driven-delivery-template) | Delivery structure and traceability | Built a reusable framework for turning product ideas into specs, milestones, and validated deliverables. |
+| [**ms-graph-auth**](https://github.com/ErzaScarletTitania/ms-graph-auth) | Enterprise workflow unblocking | Turned a blocked access problem into a reusable Microsoft Graph workflow under tenant constraints. |
+| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Workflow reliability tooling | Designed a Windows-first account-isolation workflow that improves repeatability for CLI-based work. |
+| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Evidence support tooling | Designed the evidence-capture approach for timestamped review artifacts from recorded testing sessions. |
 
 ---
 
 ## Selected Private Work
 
-- **Multi-agent testing environment** - breaks QA into structured phases, preserves reusable project memory, and packages evidence + reporting for delivery. Designed by me, built via AI orchestration.
-- **Invoice automation pipeline** - monthly Excel → Google Sheets invoices → validation logs → PDF deliverables. Directed AI end-to-end.
-- **Azure DevOps export tooling** - work items → JSON, attachment bundles, Markdown reports. AI-orchestrated.
+- **Multi-agent testing environment** — structured QA phases, reusable project memory, and evidence-first delivery packaging.
+- **Invoice workflow system** — monthly Excel → Google Sheets invoices → validation logs → PDF deliverables.
+- **Azure DevOps export tooling** — work items → JSON, attachment bundles, and Markdown reports for clearer delivery handoff.
 
 ---
 
-## Tools I Orchestrate (Via AI)
+## Tools & Working Methods
 
 | Category | Stack |
 | --- | --- |
-| Testing | Selenium WebDriver · Playwright · Postman / Newman · Manual & Exploratory · Cross-Browser · Performance · API Contract |
-| Languages | Python · PowerShell · C# · JavaScript · SQL |
+| Quality & Delivery | Risk-Based Testing · Manual & Exploratory · Cross-Browser · Release Readiness · Quality Metrics |
+| Workflow & Tooling | Python · PowerShell · C# · SQL · GitHub Actions · Azure DevOps · Windows CLI |
 | AI Platforms | GitHub Copilot · OpenAI Codex · Claude · Multi-Agent Workflow Design · Prompt Engineering |
-| Evidence & CV | OpenCV / OpenCvSharp · Google Workspace APIs |
-| CI / DevOps | GitHub Actions · Azure DevOps |
-| Platforms | Windows-first CLI · .NET 8 · Flutter |
-| Frameworks | ISTQB · Scrum · CMMI · Risk-Based Testing |
+| Evidence | OpenCV / OpenCvSharp · Google Workspace APIs · Machine-readable reporting |
+| Platforms | .NET 8 · Flutter · Web products |
+| Frameworks | ISTQB · Scrum · CMMI |
 
 ---
 
 ## What I Optimize For
 
-- Repeatable AI-assisted execution
+- Stronger release confidence
 - Auditable evidence trails
-- Operator-friendly workflows
-- Clear hand-off artifacts
-- Production-safe automation
+- Clear stakeholder visibility
+- Repeatable execution workflows
+- Production-safe delivery
 
 ---
 
 ## Hire Me
 
-I work as an **embedded AI-enabled QA strategist** with US software teams from Lima, Peru - fully overlapping EST and CST.
+I work with **distributed software teams** from Lima, Peru as a quality engineering and delivery leader who brings **structure, visibility, and AI-enabled execution**.
 
 - Available for **contract** and **remote full-time** engagements
-- I own QA end-to-end on a product or plug into an existing QA org as the AI-QA lead
-- Strong fit for SaaS, fintech, healthtech, and AI-product teams that want QA to move at AI speed - with evidence and accountability built in
+- Strong fit for **Quality Engineering Manager, QA Manager, Head of QA, Test Manager**, and selected delivery-facing leadership roles
+- Best suited to SaaS, product, fintech, healthtech, and operationally complex software teams
 
 📩 **liliet.polanco.peru@gmail.com**  
 [🔗 linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)

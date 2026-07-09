@@ -1,8 +1,8 @@
 # Liliet de la Caridad González Polanco
 
-**Estratega de QA Potenciado por IA · Arquitecta de Ingeniería de Calidad · Flujos de Pruebas Multi-Agente**
+**Líder de Ingeniería de Calidad · Estrategia de QA · Release Readiness · Sistemas de Entrega Potenciados por IA**
 
-Lima, Perú · Remoto, totalmente alineada con EST / CST de EE.UU. · Abierta a roles remotos y por contrato en EE.UU.
+Lima, Perú · Remoto · Colaboración global · Abierta a roles por contrato y remotos full-time
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-erzascarlettitania.github.io%2Fportfolio-8A2BE2?logo=github&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
@@ -14,11 +14,11 @@ Lima, Perú · Remoto, totalmente alineada con EST / CST de EE.UU. · Abierta a 
 
 ## Acerca de mí
 
-Diseño estrategias de QA basadas en riesgo y **orquesto agentes de IA** para ejecutarlas - entregando automatización de pruebas, pipelines de evidencia y reportes auditables a escala.
+Lidero sistemas de calidad y entrega para equipos de software que necesitan **más velocidad de ejecución, mayor confianza en release y mejor visibilidad para stakeholders**.
 
-Certificada ISTQB con 8+ años en 20+ productos. Mi expertise es el conocimiento de QA que dirige a la IA: **qué probar, cómo estructurarlo, cómo validar el output generado por IA y cómo empaquetarlo para stakeholders.**
+Certificada ISTQB con **9 años** en **30+ productos**, combino liderazgo de ingeniería de calidad, entrega multifuncional y diseño de flujos potenciados por IA. Mi fortaleza no es reclamar cada herramienta como una especialidad central; es **definir la estrategia, fijar el estándar de calidad, estructurar el flujo de trabajo y convertir trabajo complejo en ejecución auditable**.
 
-Transformo trabajo de QA repetitivo y frágil en **sistemas asistidos por IA** - flujos multiagente, pipelines de evidencia y tooling CLI Windows-first - que salen con logs, validación y reporte integrados.
+Actualmente lidero la entrega como Project Manager después de cuatro años como QA Lead, apoyándome en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
 
 ---
 
@@ -26,12 +26,10 @@ Transformo trabajo de QA repetitivo y frágil en **sistemas asistidos por IA** -
 
 | Paso | Qué hago | Resultado |
 | --- | --- | --- |
-| 1 | **Diseñar** | Estrategia de QA basada en riesgo, priorizada por negocio y alineada con ISTQB, Scrum y CMMI |
-| 2 | **Orquestar** | Agentes de IA ejecutando pruebas, automatización y captura de evidencia |
-| 3 | **Validar** | Reviso cada artefacto generado por IA antes de que llegue a un stakeholder |
-| 4 | **Entregar** | Reportes y artefactos auditables, listos para hand-off |
-
-No necesito escribir scripts de Selenium línea por línea. Necesito saber qué se ve como buen testing - y cómo lograr que la IA lo produzca de forma confiable.
+| 1 | **Definir** | Estrategia de calidad y entrega basada en riesgo y priorizada por negocio |
+| 2 | **Estructurar** | Flujos repetibles, estándares de evidencia y patrones de reportería |
+| 3 | **Validar** | Revisión de outputs frente a calidad, claridad y necesidades del stakeholder |
+| 4 | **Entregar** | Artefactos listos para decisión, evidencia auditable y mayor confianza en release |
 
 ---
 
@@ -39,11 +37,11 @@ No necesito escribir scripts de Selenium línea por línea. Necesito saber qué 
 
 | Área | Enfoque |
 | --- | --- |
-| 🎯 **Estrategia y Liderazgo de QA** | Estrategia basada en riesgo, readiness de releases, alineación ISTQB / Scrum / CMMI, liderazgo de equipos distribuidos |
-| 🤖 **Automatización orquestada por IA** | Dirijo agentes de IA para construir y mantener suites con Selenium WebDriver, Playwright y Postman / Newman |
-| 🧩 **Sistemas de QA multi-agente** | Ejecución por fases, estado de sesión persistente, reportes legibles por máquina y pipelines de evidencia automatizados |
-| ✅ **Validación de output de IA** | Sé cómo luce algo “listo para producción” y valido cada línea antes de que salga |
-| 🤝 **Entrega multifuncional** | Lidero un equipo de 3 ingenieros como Project Manager, puente entre ingeniería, stakeholders y calidad |
+| 🎯 **Estrategia de Calidad y Release Readiness** | QA basada en riesgo, disciplina de release, alineación ISTQB / Scrum / CMMI, prevención de defectos |
+| 🧭 **Operaciones de QA Basadas en Evidencia** | Métricas claras, visibilidad de defectos, estándares de evidencia y reportería auditable |
+| 🤖 **Sistemas de Entrega Potenciados por IA** | Flujos estructurados con IA, outputs legibles por máquina y coordinación más rápida sin perder accountability |
+| 🤝 **Liderazgo de Entrega Multifuncional** | Liderazgo de proyectos, reportería a stakeholders, marcos de escalación y alineación de equipos distribuidos |
+| 🛠️ **Diseño de Flujos y Tooling** | Tooling CLI Windows-first, utilidades de soporte de evidencia y patrones operativos reutilizables |
 
 ---
 
@@ -51,11 +49,11 @@ No necesito escribir scripts de Selenium línea por línea. Necesito saber qué 
 
 | Métrica | Resultado | Cómo |
 | --- | --- | --- |
-| Defectos post-release | −20% | Estrategia de QA basada en riesgo y asistida por IA en 20+ productos |
-| Resolución de incidentes críticos | −40% | Marco de escalamiento por niveles asistido por IA |
-| Detección temprana de defectos | 60% antes de UAT | Pruebas exploratorias, cross-browser y black-box asistidas por IA |
-| Aprobación de entregables a tiempo | 90% | Ciclos de feedback y demos de hitos asistidos por IA |
-| Esfuerzo de regresión manual | Reducido significativamente en 3 productos web | Suites orquestadas por IA con Selenium WebDriver |
+| Defectos post-release | −20% | Lideré QA basada en riesgo en un portafolio de 30+ productos |
+| Resolución de incidentes críticos | −40% | Diseñé un marco de escalación por niveles con ownership y disciplina de SLA más claros |
+| Detección temprana de defectos | 60% antes de UAT | Dirigí pruebas cross-platform, exploratorias y basadas en riesgo |
+| Aprobación de entregables en tiempo | 90% | Instituí demos de hitos y ciclos de feedback más estrechos |
+| Alcance del portafolio | 30+ productos | Construí una estrategia unificada de QA en iniciativas web, móviles y de escritorio |
 
 ---
 
@@ -63,53 +61,52 @@ No necesito escribir scripts de Selenium línea por línea. Necesito saber qué 
 
 | Proyecto | Enfoque | Mi rol |
 | --- | --- | --- |
-| [**g-connect-testing-agent-v2**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | Framework multiagente de QA | Diseñé la arquitectura y las fases. Dirigí a la IA para construir y documentar. |
-| [**e-commerce-audit-suite**](https://github.com/ErzaScarletTitania) | Auditoría e-commerce en Playwright | Definí el alcance (SEO, seguridad, a11y, performance y core e-commerce). La IA construyó la suite. Yo validé cada check. |
-| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Captura de evidencia con OpenCV (C#) | Diseñé el pipeline de evidencia. Dirigí a la IA para construir el extractor en C#. |
-| [**g-connect-frame-extractor-ps1**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-ps1) | Captura de evidencia con PowerShell | La misma pipeline, implementación ligera. Orquestada por IA. |
-| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Tooling de agentes | Diseñé el flujo de aislamiento multi-cuenta. La IA construyó el lanzador. |
+| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | Modelo operativo de calidad potenciado por IA | Diseñé el modelo operativo por fases, la estructura de evidencia y la lógica de reportería para una ejecución de QA repetible. |
+| [**spec-driven-delivery-template**](https://github.com/ErzaScarletTitania/spec-driven-delivery-template) | Estructura y trazabilidad de entrega | Construí un marco reutilizable para convertir ideas de producto en especificaciones, hitos y entregables validados. |
+| [**ms-graph-auth**](https://github.com/ErzaScarletTitania/ms-graph-auth) | Desbloqueo de flujos empresariales | Convertí un problema de acceso bloqueado en un flujo reutilizable con Microsoft Graph bajo restricciones de tenant. |
+| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Tooling para confiabilidad operativa | Diseñé un flujo Windows-first de aislamiento de cuentas que mejora la repetibilidad en trabajo basado en CLI. |
+| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Tooling de soporte de evidencia | Diseñé el enfoque de captura de evidencia para artefactos de revisión con timestamp en sesiones grabadas de testing. |
 
 ---
 
 ## Trabajo privado seleccionado
 
-- **Entorno de testing multiagente** - divide el QA en fases estructuradas, preserva memoria reutilizable del proyecto y empaqueta evidencia + reportes para entrega. Diseñado por mí, construido con orquestación de IA.
-- **Pipeline de automatización de facturas** - Excel mensual → facturas en Google Sheets → logs de validación → entregables PDF. Dirigido por IA de punta a punta.
-- **Tooling de exportación de Azure DevOps** - work items → JSON, paquetes de adjuntos y reportes Markdown. Orquestado por IA.
+- **Entorno de testing multiagente** — fases estructuradas de QA, memoria reutilizable de proyecto y empaquetado de entrega basado en evidencia.
+- **Sistema de facturación** — Excel mensual → facturas en Google Sheets → logs de validación → entregables PDF.
+- **Tooling de exportación de Azure DevOps** — work items → JSON, paquetes de adjuntos y reportes Markdown para handoff de entrega más claro.
 
 ---
 
-## Stack que orquesto vía IA
+## Herramientas y métodos de trabajo
 
 | Categoría | Stack |
 | --- | --- |
-| Testing | Selenium WebDriver · Playwright · Postman / Newman · Manual y Exploratoria · Cross-Browser · Performance · API Contract |
-| Lenguajes | Python · PowerShell · C# · JavaScript · SQL |
-| Plataformas IA | GitHub Copilot · OpenAI Codex · Claude · Diseño de Flujos Multi-Agente · Prompt Engineering |
-| Evidencia y CV | OpenCV / OpenCvSharp · Google Workspace APIs |
-| CI / DevOps | GitHub Actions · Azure DevOps |
-| Plataformas | CLI Windows-first · .NET 8 · Flutter |
-| Marcos | ISTQB · Scrum · CMMI · Pruebas Basadas en Riesgo |
+| Calidad y Entrega | Pruebas Basadas en Riesgo · Manual y Exploratoria · Cross-Browser · Release Readiness · Métricas de Calidad |
+| Flujos y Tooling | Python · PowerShell · C# · SQL · GitHub Actions · Azure DevOps · Windows CLI |
+| Plataformas IA | GitHub Copilot · OpenAI Codex · Claude · Diseño de Flujos Multiagente · Prompt Engineering |
+| Evidencia | OpenCV / OpenCvSharp · Google Workspace APIs · Reporterías legibles por máquina |
+| Plataformas | .NET 8 · Flutter · Productos web |
+| Marcos | ISTQB · Scrum · CMMI |
 
 ---
 
 ## Qué optimizo
 
-- Ejecución repetible asistida por IA
+- Mayor confianza en release
 - Trazabilidad auditable
-- Flujos amigables al operador
-- Artefactos claros de hand-off
-- Automatización segura para producción
+- Visibilidad clara para stakeholders
+- Flujos de ejecución repetibles
+- Entrega segura para producción
 
 ---
 
 ## Contrátame
 
-Trabajo como **estratega embebida de QA potenciada por IA** con equipos de software de EE.UU. desde Lima, Perú - con total solapamiento EST y CST.
+Trabajo con **equipos distribuidos de software** desde Lima, Perú como líder de ingeniería de calidad y entrega, aportando **estructura, visibilidad y ejecución potenciada por IA**.
 
 - Disponible para **contratos** y **roles remotos full-time**
-- Puedo liderar QA end-to-end o integrarme a un equipo existente como lead de AI-QA
-- Buen fit para SaaS, fintech, healthtech y productos de IA que necesitan QA a velocidad IA, con evidencia y accountability
+- Buen fit para **Quality Engineering Manager, QA Manager, Head of QA, Test Manager** y roles selectos de liderazgo orientados a entrega
+- Mejor encaje con equipos SaaS, de producto, fintech, healthtech y software con complejidad operativa
 
 📩 **liliet.polanco.peru@gmail.com**  
 [🔗 linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
@@ -129,4 +126,4 @@ Trabajo como **estratega embebida de QA potenciada por IA** con equipos de softw
 
 ---
 
-**¿Prefieres inglés?** [Lee la versión en inglés aquí](README.md).
+**Prefer English?** [Read the English version here](README.md).
