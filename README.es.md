@@ -2,13 +2,13 @@
 
 **Líder de Ingeniería de Calidad · Estrategia de QA · Release Readiness · Sistemas de Entrega Potenciados por IA**
 
-Lima, Perú · Remoto · Colaboración global · Abierta a roles por contrato y remotos full-time
+Lima, Perú · Remoto · Liderazgo de ingeniería de calidad para equipos de producto en US e internacionales · UTC-5, solapamiento total con horario laboral de US
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-erzascarlettitania.github.io%2Fportfolio-8A2BE2?logo=github&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?logo=bookstack&logoColor=white)](https://www.istqb.org/)
-[![Disponible](https://img.shields.io/badge/Disponible-Contrato%20Remoto%20%2F%20FTE-brightgreen)](#contrátame)
+[![Disponibilidad](https://img.shields.io/badge/Remoto-Horario%20US%20%C2%B7%20UTC--5-brightgreen)](#contrátame)
 
 ---
 
@@ -18,7 +18,7 @@ Lidero sistemas de calidad y entrega para equipos de software que necesitan **m�
 
 Certificada ISTQB con **9 años** en **30+ productos**, combino liderazgo de ingeniería de calidad, entrega multifuncional y diseño de flujos potenciados por IA. Mi fortaleza no es reclamar cada herramienta como una especialidad central; es **definir la estrategia, fijar el estándar de calidad, estructurar el flujo de trabajo y convertir trabajo complejo en ejecución auditable**.
 
-Actualmente lidero la entrega como Project Manager después de cuatro años como QA Lead, apoyándome en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
+Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo de 6 personas en 9 squads de producto**, en paralelo a una colaboración por contrato como Project Manager & QA Lead. Esto se apoya en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
 
 ---
 
@@ -49,6 +49,8 @@ Actualmente lidero la entrega como Project Manager después de cuatro años como
 
 | Métrica | Resultado | Cómo |
 | --- | --- | --- |
+| Equipo de QA a cargo | 6 QA engineers · 9 squads de producto | Lidero el departamento de QA en ecoPortal en todos los squads de producto activos |
+| Diagnóstico del departamento | 14 entrevistas · 5 grupos de stakeholders · 2 semanas | Entregué el primer diagnóstico documentado del estado de QA tras incorporarme |
 | Defectos post-release | −20% | Lideré QA basada en riesgo en un portafolio de 30+ productos |
 | Resolución de incidentes críticos | −40% | Diseñé un marco de escalación por niveles con ownership y disciplina de SLA más claros |
 | Detección temprana de defectos | 60% antes de UAT | Dirigí pruebas cross-platform, exploratorias y basadas en riesgo |
@@ -81,7 +83,7 @@ Actualmente lidero la entrega como Project Manager después de cuatro años como
 
 | Categoría | Stack |
 | --- | --- |
-| Calidad y Entrega | Pruebas Basadas en Riesgo · Manual y Exploratoria · Cross-Browser · Release Readiness · Métricas de Calidad |
+| Calidad y Entrega | Pruebas Basadas en Riesgo · Manual y Exploratoria · Cross-Browser · Playwright · Release Readiness · Métricas de Calidad |
 | Flujos y Tooling | Python · PowerShell · C# · SQL · GitHub Actions · Azure DevOps · Windows CLI |
 | Plataformas IA | GitHub Copilot · OpenAI Codex · Claude · Diseño de Flujos Multiagente · Prompt Engineering |
 | Evidencia | OpenCV / OpenCvSharp · Google Workspace APIs · Reporterías legibles por máquina |
@@ -104,12 +106,21 @@ Actualmente lidero la entrega como Project Manager después de cuatro años como
 
 Trabajo con **equipos distribuidos de software** desde Lima, Perú como líder de ingeniería de calidad y entrega, aportando **estructura, visibilidad y ejecución potenciada por IA**.
 
-- Disponible para **contratos** y **roles remotos full-time**
-- Buen fit para **Quality Engineering Manager, QA Manager, Head of QA, Test Manager** y roles selectos de liderazgo orientados a entrega
-- Mejor encaje con equipos SaaS, de producto, fintech, healthtech y software con complejidad operativa
+- **Modelos de colaboración:** contrato, liderazgo de QA fraccional y remoto full-time
+- **Zona horaria:** UTC-5 — solapamiento total con el horario laboral de US, sin handoffs solo asíncronos
+- **Roles:** Quality Engineering Manager, QA Manager, Head of QA, Test Manager y liderazgo orientado a entrega
+- **Mejor encaje:** equipos SaaS, de producto, fintech, healthtech y software con complejidad operativa
 
 📩 **liliet.polanco.peru@gmail.com**  
 [🔗 linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
+
+---
+
+## Publicaciones
+
+- **"Método de estratificación territorial basado en sistemas de información geográfica y medidas de similitud geométrica."** Revista Cubana de Informática Médica, 2021.
+- **"Aplicación Android para la Gestión de Información de Vulnerabilidades."** SIGESTIC, 2019.
+- **"Configuraciones internas para el fortalecimiento de la seguridad en Joomla."** SIGESTIC, 2019.
 
 ---
 

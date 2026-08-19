@@ -2,13 +2,13 @@
 
 **Quality Engineering Leader · QA Strategy · Release Readiness · AI-Enabled Delivery Systems**
 
-Lima, Peru · Remote · Global collaboration · Open to contract and full-time remote roles
+Lima, Peru · Remote · Quality engineering leadership for US and international product teams · UTC-5, full US business-hours overlap
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-erzascarlettitania.github.io%2Fportfolio-8A2BE2?logo=github&logoColor=white)](https://erzascarlettitania.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lilypolanco-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilypolanco/)
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?logo=bookstack&logoColor=white)](https://www.istqb.org/)
-[![Status](https://img.shields.io/badge/Available-Remote%20Contract%20%2F%20FTE-brightgreen)](#hire-me)
+[![Availability](https://img.shields.io/badge/Remote-US%20Hours%20Overlap%20%C2%B7%20UTC--5-brightgreen)](#hire-me)
 
 ---
 
@@ -18,7 +18,7 @@ I lead quality and delivery systems for software teams that need **faster execut
 
 ISTQB-certified with **9 years** across **30+ products**, I bring a mix of quality engineering leadership, cross-functional delivery, and AI-enabled workflow design. My strength is not claiming every tool as a core specialty; it is **defining the strategy, setting the quality bar, structuring the workflow, and turning complex work into auditable execution**.
 
-I currently lead delivery as a Project Manager after four years as QA Lead, building on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
+I currently lead QA at **ecoPortal** (New Zealand), heading a **6-person team across 9 product squads**, alongside a contract Project Manager & QA Lead engagement. This builds on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
 
 ---
 
@@ -49,6 +49,8 @@ I currently lead delivery as a Project Manager after four years as QA Lead, buil
 
 | Metric | Result | How |
 | --- | --- | --- |
+| QA team led | 6 QA engineers · 9 product squads | Lead the QA department at ecoPortal across every active product squad |
+| Department diagnosis | 14 interviews · 5 stakeholder groups · 2 weeks | Delivered the department's first documented QA status assessment after joining |
 | Post-release defects | −20% | Led risk-based QA across a 30+ product portfolio |
 | High-impact incident resolution | −40% | Designed a tiered escalation framework with clearer ownership and SLA discipline |
 | Early-stage defect detection | 60% caught pre-UAT | Directed cross-platform black-box, exploratory, and risk-based testing |
@@ -81,7 +83,7 @@ I currently lead delivery as a Project Manager after four years as QA Lead, buil
 
 | Category | Stack |
 | --- | --- |
-| Quality & Delivery | Risk-Based Testing · Manual & Exploratory · Cross-Browser · Release Readiness · Quality Metrics |
+| Quality & Delivery | Risk-Based Testing · Manual & Exploratory · Cross-Browser · Playwright · Release Readiness · Quality Metrics |
 | Workflow & Tooling | Python · PowerShell · C# · SQL · GitHub Actions · Azure DevOps · Windows CLI |
 | AI Platforms | GitHub Copilot · OpenAI Codex · Claude · Multi-Agent Workflow Design · Prompt Engineering |
 | Evidence | OpenCV / OpenCvSharp · Google Workspace APIs · Machine-readable reporting |
@@ -104,12 +106,21 @@ I currently lead delivery as a Project Manager after four years as QA Lead, buil
 
 I work with **distributed software teams** from Lima, Peru as a quality engineering and delivery leader who brings **structure, visibility, and AI-enabled execution**.
 
-- Available for **contract** and **remote full-time** engagements
-- Strong fit for **Quality Engineering Manager, QA Manager, Head of QA, Test Manager**, and selected delivery-facing leadership roles
-- Best suited to SaaS, product, fintech, healthtech, and operationally complex software teams
+- **Engagement models:** contract, fractional QA leadership, and remote full-time
+- **Time zone:** UTC-5 — full overlap with US business hours, no async-only handoffs
+- **Roles:** Quality Engineering Manager, QA Manager, Head of QA, Test Manager, and delivery-facing leadership
+- **Best fit:** SaaS, product, fintech, healthtech, and operationally complex software teams
 
 📩 **liliet.polanco.peru@gmail.com**  
 [🔗 linkedin.com/in/lilypolanco](https://www.linkedin.com/in/lilypolanco/)
+
+---
+
+## Publications
+
+- **"Territory stratification method based on geographic information systems and geometric similarity measures."** Cuban Journal of Medical Informatics, 2021.
+- **"Vulnerability Information Management Android App."** SIGESTIC, 2019.
+- **"Internal configurations for strengthening security in Joomla."** SIGESTIC, 2019.
 
 ---
 
