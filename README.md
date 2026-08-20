@@ -18,7 +18,7 @@ I lead quality and delivery systems for software teams that need **faster execut
 
 ISTQB-certified with **9 years** across **30+ products**, I bring a mix of quality engineering leadership, cross-functional delivery, and AI-enabled workflow design. My strength is not claiming every tool as a core specialty; it is **defining the strategy, setting the quality bar, structuring the workflow, and turning complex work into auditable execution**.
 
-I currently lead QA at **ecoPortal** (New Zealand), heading a **6-person team across 9 product squads**, alongside a contract Project Manager & QA Lead engagement. This builds on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
+I currently lead QA at **ecoPortal** (New Zealand), heading a **6-person team across 9 product squads**, alongside a contract Project Manager engagement. This builds on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
 
 ---
 
