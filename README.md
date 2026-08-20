@@ -9,6 +9,7 @@ Lima, Peru · Remote · Quality engineering leadership for US and international 
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?logo=bookstack&logoColor=white)](https://www.istqb.org/)
 [![Availability](https://img.shields.io/badge/Remote-US%20Hours%20Overlap%20%C2%B7%20UTC--5-brightgreen)](#hire-me)
+[![Español](https://img.shields.io/badge/README-Espa%C3%B1ol-lightgrey)](README.es.md)
 
 ---
 

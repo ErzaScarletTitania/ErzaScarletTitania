@@ -9,6 +9,7 @@ Lima, Perú · Remoto · Liderazgo de ingeniería de calidad para equipos de pro
 [![Email](https://img.shields.io/badge/Email-liliet.polanco.peru%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:liliet.polanco.peru@gmail.com)
 [![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?logo=bookstack&logoColor=white)](https://www.istqb.org/)
 [![Disponibilidad](https://img.shields.io/badge/Remoto-Horario%20US%20%C2%B7%20UTC--5-brightgreen)](#contrátame)
+[![English](https://img.shields.io/badge/README-English-lightgrey)](README.md)
 
 ---
 
