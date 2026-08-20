@@ -19,7 +19,7 @@ Lidero sistemas de calidad y entrega para equipos de software que necesitan **m�
 
 Certificada ISTQB con **9 años** en **30+ productos**, combino liderazgo de ingeniería de calidad, entrega multifuncional y diseño de flujos potenciados por IA. Mi fortaleza no es reclamar cada herramienta como una especialidad central; es **definir la estrategia, fijar el estándar de calidad, estructurar el flujo de trabajo y convertir trabajo complejo en ejecución auditable**.
 
-Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo de 6 personas en 9 squads de producto**, en paralelo a una colaboración por contrato como Project Manager. Esto se apoya en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
+Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo de 6 personas en 9 squads de producto**, en paralelo a una colaboración como Project Manager — ambas por contrato. Esto se apoya en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
 
 ---
 
