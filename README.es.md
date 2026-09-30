@@ -64,11 +64,11 @@ Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo
 
 | Proyecto | Enfoque | Mi rol |
 | --- | --- | --- |
-| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/g-connect-testing-agent-v2-public-showcase) | Modelo operativo de calidad potenciado por IA | Diseñé el modelo operativo por fases, la estructura de evidencia y la lógica de reportería para una ejecución de QA repetible. |
-| [**spec-driven-delivery-template**](https://github.com/ErzaScarletTitania/spec-driven-delivery-template) | Estructura y trazabilidad de entrega | Construí un marco reutilizable para convertir ideas de producto en especificaciones, hitos y entregables validados. |
-| [**ms-graph-auth**](https://github.com/ErzaScarletTitania/ms-graph-auth) | Desbloqueo de flujos empresariales | Convertí un problema de acceso bloqueado en un flujo reutilizable con Microsoft Graph bajo restricciones de tenant. |
-| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/Codex-CLI-Accounts-Selection) | Tooling para confiabilidad operativa | Diseñé un flujo Windows-first de aislamiento de cuentas que mejora la repetibilidad en trabajo basado en CLI. |
-| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/g-connect-frame-extractor-opencv) | Tooling de soporte de evidencia | Diseñé el enfoque de captura de evidencia para artefactos de revisión con timestamp en sesiones grabadas de testing. |
+| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/lgp-qa-orchestration) | Modelo operativo de calidad potenciado por IA | Diseñé el modelo operativo por fases, la estructura de evidencia y la lógica de reportería para una ejecución de QA repetible. |
+| [**spec-driven-delivery-template**](https://github.com/ErzaScarletTitania/lgp-delivery-traceability) | Estructura y trazabilidad de entrega | Construí un marco reutilizable para convertir ideas de producto en especificaciones, hitos y entregables validados. |
+| [**ms-graph-auth**](https://github.com/ErzaScarletTitania/lgp-msgraph-access) | Desbloqueo de flujos empresariales | Convertí un problema de acceso bloqueado en un flujo reutilizable con Microsoft Graph bajo restricciones de tenant. |
+| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/lgp-codex-accounts) | Tooling para confiabilidad operativa | Diseñé un flujo Windows-first de aislamiento de cuentas que mejora la repetibilidad en trabajo basado en CLI. |
+| [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/lgp-video-evidence-csharp) | Tooling de soporte de evidencia | Diseñé el enfoque de captura de evidencia para artefactos de revisión con timestamp en sesiones grabadas de testing. |
 
 ---
 
