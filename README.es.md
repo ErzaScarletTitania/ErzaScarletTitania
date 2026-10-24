@@ -19,7 +19,7 @@ Lidero sistemas de calidad y entrega para equipos de software que necesitan **m�
 
 Certificada ISTQB con **9 años** en **30+ productos**, combino liderazgo de ingeniería de calidad, entrega multifuncional y diseño de flujos potenciados por IA. Mi fortaleza no es reclamar cada herramienta como una especialidad central; es **definir la estrategia, fijar el estándar de calidad, estructurar el flujo de trabajo y convertir trabajo complejo en ejecución auditable**.
 
-Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo de 6 personas en 9 squads de producto**, en paralelo a una colaboración como Project Manager — ambas por contrato. Esto se apoya en una trayectoria en QA basada en riesgo, release readiness, diseño de escalación, reportería para stakeholders y sistemas operativos basados en evidencia.
+Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), con **8 reportes directos en una organización de QA de 9 personas en 9 squads de producto**, en paralelo a una colaboración como Project Manager — ambas por contrato. Mi trabajo actual combina liderazgo de personas y diseño de modelo operativo alineado con CMMI con estrategia de calidad basada en riesgo para aplicaciones web React, servicios Rails/GraphQL/REST, móvil Flutter y capacidades asistidas por IA.
 
 ---
 
@@ -50,8 +50,10 @@ Actualmente lidero QA en **ecoPortal** (Nueva Zelanda), al frente de un **equipo
 
 | Métrica | Resultado | Cómo |
 | --- | --- | --- |
-| Equipo de QA a cargo | 6 QA engineers · 9 squads de producto | Lidero el departamento de QA en ecoPortal en todos los squads de producto activos |
-| Diagnóstico del departamento | 14 entrevistas · 5 grupos de stakeholders · 2 semanas | Entregué el primer diagnóstico documentado del estado de QA tras incorporarme |
+| Liderazgo de la organización de QA | 8 reportes directos · 3 contrataciones de QA · 9 squads de producto | Lidero la organización de QA en ecoPortal y amplié su capacidad de ingeniería de calidad |
+| Modelo operativo de QA | 23 artefactos alineados con CMMI · 11 áreas de gobierno | Elaboré un marco pendiente de aprobación para trazabilidad, estrategia de pruebas, riesgos, métricas, validación, auditoría y gestión de defectos |
+| Calidad de releases multilingües | 3 flujos de trabajo · 27 casos de prueba · 16 defectos · 12 correcciones validadas | Dirigí planificación de QA basada en riesgo y trabajo de release readiness en capacidades web, API y móviles |
+| Calidad de IA conversacional | 14 charters de prueba · 2 defectos | Establecí evaluación basada en rúbricas para lenguaje, semántica, flujos, población y precisión de datos |
 | Defectos post-release | −20% | Lideré QA basada en riesgo en un portafolio de 30+ productos |
 | Resolución de incidentes críticos | −40% | Diseñé un marco de escalación por niveles con ownership y disciplina de SLA más claros |
 | Detección temprana de defectos | 60% antes de UAT | Dirigí pruebas cross-platform, exploratorias y basadas en riesgo |

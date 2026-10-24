@@ -19,7 +19,7 @@ I lead quality and delivery systems for software teams that need **faster execut
 
 ISTQB-certified with **9 years** across **30+ products**, I bring a mix of quality engineering leadership, cross-functional delivery, and AI-enabled workflow design. My strength is not claiming every tool as a core specialty; it is **defining the strategy, setting the quality bar, structuring the workflow, and turning complex work into auditable execution**.
 
-I currently lead QA at **ecoPortal** (New Zealand), heading a **6-person team across 9 product squads**, alongside a Project Manager engagement — both on a contract basis. This builds on a track record in risk-based QA, release readiness, escalation design, stakeholder reporting, and evidence-based operating systems.
+I currently lead QA at **ecoPortal** (New Zealand), overseeing **8 direct reports in a 9-person QA organization across 9 product squads**, alongside a Project Manager engagement — both on a contract basis. My current work combines people leadership and CMMI-aligned operating-model design with risk-based quality strategy across React web, Rails/GraphQL/REST services, Flutter mobile, and AI-assisted capabilities.
 
 ---
 
@@ -50,8 +50,10 @@ I currently lead QA at **ecoPortal** (New Zealand), heading a **6-person team ac
 
 | Metric | Result | How |
 | --- | --- | --- |
-| QA team led | 6 QA engineers · 9 product squads | Lead the QA department at ecoPortal across every active product squad |
-| Department diagnosis | 14 interviews · 5 stakeholder groups · 2 weeks | Delivered the department's first documented QA status assessment after joining |
+| QA organization leadership | 8 direct reports · 3 QA hires · 9 product squads | Lead the QA organization at ecoPortal and expanded its quality-engineering capacity |
+| QA operating model | 23 CMMI-aligned artifacts · 11 governance areas | Authored a pending-approval framework for traceability, test strategy, risk, metrics, validation, audit, and defect management |
+| Multilingual release quality | 3 workstreams · 27 test cases · 16 defects · 12 validated fixes | Directed risk-based QA planning and release-readiness work across web, API, and mobile product capabilities |
+| Conversational-AI quality | 14 test charters · 2 defects | Established rubric-based evaluation across language, semantics, workflows, population, and data accuracy |
 | Post-release defects | −20% | Led risk-based QA across a 30+ product portfolio |
 | High-impact incident resolution | −40% | Designed a tiered escalation framework with clearer ownership and SLA discipline |
 | Early-stage defect detection | 60% caught pre-UAT | Directed cross-platform black-box, exploratory, and risk-based testing |
