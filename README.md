@@ -66,10 +66,10 @@ I currently lead QA at **ecoPortal** (New Zealand), overseeing **8 direct report
 
 | Project | Focus | My Role |
 | --- | --- | --- |
-| [**g-connect-testing-agent-v2-public-showcase**](https://github.com/ErzaScarletTitania/lgp-qa-orchestration) | AI-enabled quality operating model | Designed the phased operating model, evidence structure, and reporting logic for repeatable QA execution. |
-| [**spec-driven-delivery-template**](https://github.com/ErzaScarletTitania/lgp-delivery-traceability) | Delivery structure and traceability | Built a reusable framework for turning product ideas into specs, milestones, and validated deliverables. |
-| [**ms-graph-auth**](https://github.com/ErzaScarletTitania/lgp-msgraph-access) | Enterprise workflow unblocking | Turned a blocked access problem into a reusable Microsoft Graph workflow under tenant constraints. |
-| [**Codex-CLI-Accounts-Selection**](https://github.com/ErzaScarletTitania/lgp-codex-accounts) | Workflow reliability tooling | Designed a Windows-first account-isolation workflow that improves repeatability for CLI-based work. |
+| [**lgp-qa-orchestration**](https://github.com/ErzaScarletTitania/lgp-qa-orchestration) | AI-enabled quality operating model | Designed the phased operating model, evidence structure, and reporting logic for repeatable QA execution. |
+| [**lgp-delivery-traceability**](https://github.com/ErzaScarletTitania/lgp-delivery-traceability) | Delivery structure and traceability | Built a reusable framework for turning product ideas into specs, milestones, and validated deliverables. |
+| [**lgp-msgraph-access**](https://github.com/ErzaScarletTitania/lgp-msgraph-access) | Enterprise workflow unblocking | Turned a blocked access problem into a reusable Microsoft Graph workflow under tenant constraints. |
+| [**lgp-codex-accounts**](https://github.com/ErzaScarletTitania/lgp-codex-accounts) | Workflow reliability tooling | Designed a Windows-first account-isolation workflow that improves repeatability for CLI-based work. |
 | [**g-connect-frame-extractor-opencv**](https://github.com/ErzaScarletTitania/lgp-video-evidence-csharp) | Evidence support tooling | Designed the evidence-capture approach for timestamped review artifacts from recorded testing sessions. |
 
 ---
